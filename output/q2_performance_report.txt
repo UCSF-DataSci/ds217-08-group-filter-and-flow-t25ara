@@ -1,21 +1,21 @@
-facility_name,encounter_id,provider_id,specialty,years_experience
-Cardiology Specialty Center,11,PR0137,Oncology,17
-Cardiology Specialty Center,10,PR0391,Neurology,32
-City General Hospital,12,PR0279,Oncology,11
-City General Hospital,12,PR0345,Oncology,9
-Community Health Clinic,14,PR0039,Dermatology,27
-Community Health Clinic,13,PR0243,Oncology,25
-Emergency Medical Center,18,PR0336,Radiology,24
-Emergency Medical Center,11,PR0411,Dermatology,22
-Northside Urgent Care,13,PR0475,Neurology,23
-Northside Urgent Care,11,PR0468,Cardiology,26
-Oncology Treatment Center,13,PR0390,Orthopedics,24
-Oncology Treatment Center,12,PR0336,Radiology,24
-Pediatric Care Center,17,PR0044,Oncology,39
-Pediatric Care Center,13,PR0177,Emergency Medicine,14
-Primary Care Clinic,13,PR0171,Oncology,22
-Primary Care Clinic,11,PR0245,Orthopedics,33
-Regional Medical Center,19,PR0390,Orthopedics,24
-Regional Medical Center,13,PR0200,Cardiology,37
-Surgical Specialty Center,15,PR0182,Oncology,25
-Surgical Specialty Center,12,PR0215,Oncology,38
+              facility_name  encounter_id provider_id          specialty  years_experience
+Cardiology Specialty Center            11      PR0137           Oncology                17
+Cardiology Specialty Center            10      PR0391          Neurology                32
+      City General Hospital            12      PR0279           Oncology                11
+      City General Hospital            12      PR0345           Oncology                 9
+    Community Health Clinic            14      PR0039        Dermatology                27
+    Community Health Clinic            13      PR0243           Oncology                25
+   Emergency Medical Center            18      PR0336          Radiology                24
+   Emergency Medical Center            11      PR0411        Dermatology                22
+      Northside Urgent Care            13      PR0475          Neurology                23
+      Northside Urgent Care            11      PR0468         Cardiology                26
+  Oncology Treatment Center            13      PR0390        Orthopedics                24
+  Oncology Treatment Center            12      PR0336          Radiology                24
+      Pediatric Care Center            17      PR0044           Oncology                39
+      Pediatric Care Center            13      PR0177 Emergency Medicine                14
+        Primary Care Clinic            13      PR0171           Oncology                22
+        Primary Care Clinic            11      PR0245        Orthopedics                33
+    Regional Medical Center            19      PR0390        Orthopedics                24
+    Regional Medical Center            13      PR0200         Cardiology                37
+  Surgical Specialty Center            15      PR0182           Oncology                25
+  Surgical Specialty Center            12      PR0215           Oncology                38
